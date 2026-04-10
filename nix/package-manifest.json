@@ -1,0 +1,26 @@
+{
+  "source": {
+    "path": "upstream",
+    "channel": "github-head",
+    "defaultBranch": "main",
+    "version": "0.2.0",
+    "rev": "ccc708fd7d24afa743132fec0e675157488b53a5"
+  },
+  "package": {
+    "repo": "simultaneous-launch-button",
+    "version": "0.2.0"
+  },
+  "binary": {
+    "name": "slb",
+    "package": "cmd/slb"
+  },
+  "nix": {
+    "goBuilder": "go124",
+    "vendorHash": "sha256-Ll1nNyopgyM70O5Z7D/MqBkbz03qyexoE7d9Fum0/Yw="
+  },
+  "meta": {
+    "description": "Simultaneous Launch Button for coordinated multi-command execution",
+    "homepage": "https://github.com/Dicklesworthstone/simultaneous_launch_button",
+    "licenseSpdx": "MIT"
+  }
+}
