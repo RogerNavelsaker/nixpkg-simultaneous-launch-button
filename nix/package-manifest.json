@@ -1,10 +1,13 @@
 {
   "source": {
-    "path": "upstream",
+    "type": "github",
+    "owner": "Dicklesworthstone",
+    "repo": "simultaneous_launch_button",
     "channel": "github-head",
     "defaultBranch": "main",
     "version": "0.2.0",
-    "rev": "ccc708fd7d24afa743132fec0e675157488b53a5"
+    "rev": "ccc708fd7d24afa743132fec0e675157488b53a5",
+    "hash": "sha256-35lQ6u/v+2M7FdgZn7vzbK7RGBe/POH0WoVNWEDWTKQ="
   },
   "package": {
     "repo": "simultaneous-launch-button",
