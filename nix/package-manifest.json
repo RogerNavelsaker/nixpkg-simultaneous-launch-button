@@ -19,7 +19,7 @@
   },
   "nix": {
     "goBuilder": "go124",
-    "vendorHash": "sha256-Ll1nNyopgyM70O5Z7D/MqBkbz03qyexoE7d9Fum0/Yw="
+    "vendorHash": "sha256-aQwe5Ju4N2lIRVDV2SUKy7GqhcqmvkXPUnLe0bqC5+s="
   },
   "meta": {
     "description": "Simultaneous Launch Button for coordinated multi-command execution",
