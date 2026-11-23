@@ -6,8 +6,8 @@
     "channel": "github-head",
     "defaultBranch": "main",
     "version": "0.2.0",
-    "rev": "32604d40247f1ed3089d188ddf8fd828db5cda0c",
-    "hash": "sha256-CsdQOkrsqDfuHgRzBB+G/wCxksrW8DXSJJAr6yR6zqw="
+    "rev": "90b3b8af1904af6453034b3c3d933bf2f1bc0fe7",
+    "hash": "sha256-6/nC1x0RIGGXpwqQePjXDDXAQVoX+B8D924xn8duEbk="
   },
   "package": {
     "repo": "simultaneous-launch-button",
